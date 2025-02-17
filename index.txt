@@ -535,11 +535,7 @@ alt = booken home
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor inci ut labore et dolore consectetur adipisicing elit sed do eiusmod tempor.
 
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
-<ion-icon name="logo-pinterest"></ion-icon>
+
 
     
 Corporate
