@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/booken)
@@ -52,3 +53,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
+=======
+
+
+>>>>>>> 224e95abd036d098d3a5c3528b678d8a281c0d6d
