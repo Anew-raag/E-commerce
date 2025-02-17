@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 Booken - Get Your New Book Collections
 
-This is a Book eCommerce html template made by codewithsadee
-
-
 
 #---------- HEADER ----------#
 
@@ -23,7 +20,7 @@ aria-label = open menu
 aria-label = user
 <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
 
-aria-label = clsoe menu
+aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
 placeholder = Search our store
@@ -38,7 +35,7 @@ About Us
 Contact
 
 <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
-(+01)-234-56789
++1001001010
 
 
 
@@ -567,7 +564,7 @@ Insurance
 Book Writing
 
 
-Copyright 2022 | Made With Love by codewithsadee.
+ | Made With Love by Anurag.
 
 alt = Payment method
 
